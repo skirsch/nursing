@@ -9,3 +9,5 @@ See the analysis directory for the spreadsheet with
 "nursing_ALL." That's the file with the R output with my commentary and excel plots.
 
 Based on [data avaiable from CMS](https://data.cms.gov/covid-19/covid-19-nursing-home-data).
+
+Look in the analysis directory and find the nursing_state_week_groups.xlsx. The CFR remained flat, with short increases after the vax rollout. The vaccines DID NOT REDUCE MORTALITY. THEY LIED.
