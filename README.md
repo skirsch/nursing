@@ -12,4 +12,10 @@ Based on [data avaiable from CMS](https://data.cms.gov/covid-19/covid-19-nursing
 
 Look in the [analysis directory](./analysis) and find the file `nursing_state_week_groups.xlsx`. The CFR remained flat, with short increases after the vax rollout. 
 
-The vaccines DID NOT REDUCE MORTALITY.
+There were 15,058 nursing homes in the analysis. None were excluded. Our graphs match what is posted on the CMS page. 
+
+What is crystal clear: the vaccines DID NOT REDUCE MORTALITY.
+
+There is no way to spin this any other way. 
+
+This is why there will never be any debates on this topic and why no mainstream media will ever cover this dataset: the most important dataset of the pandemic.
