@@ -10,6 +10,7 @@ import pandas as pd
 import csv # for the quoting option on output
 from datetime import timedelta
 
+# expand these files locally from the nursing.zip file
 source_file_2020="./data/nursing/faclevel_2020.csv"
 source_file_2021="./data/nursing/faclevel_2021.csv"
 source_file_2022="./data/nursing/faclevel_2022.csv"
