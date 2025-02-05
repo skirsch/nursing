@@ -3,3 +3,4 @@
 
 # these can be recovered from the zip file so do not sync
 faclevel_202*.csv
+~$*
