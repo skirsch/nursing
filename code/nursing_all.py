@@ -1,4 +1,13 @@
 '''
+This is the most recent version of the nursing code
+
+This was run on the most recent CMS US nursing home data in 2025.
+
+See CFR_graphs.xlsx and the nursing_grouped tab.
+
+data source: https://data.cms.gov/covid-19/covid-19-nursing-home-data/data
+
+
 Write a csv file of groupings for the nursing home data for resident covid cases, covid deaths and all deaths 
 grouped by week and state.
 
